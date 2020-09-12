@@ -1,3 +1,4 @@
+[![Board Status](https://chinweren.visualstudio.com/0d724501-33ac-43a2-ac9a-7bce4f4774f1/54627cb7-8f78-4e63-b3de-62b74cdf5b5a/_apis/work/boardbadge/01d57e55-4b5e-4372-9d03-de038c95101e)](https://chinweren.visualstudio.com/0d724501-33ac-43a2-ac9a-7bce4f4774f1/_boards/board/t/54627cb7-8f78-4e63-b3de-62b74cdf5b5a/Microsoft.RequirementCategory)
 # 程序员修炼宝典
 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/niudai/How-to-be-a-good-programmer)
